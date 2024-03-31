@@ -3,6 +3,9 @@ Je suis Serigne Abdoulaye Faye, un Freelance spécialisé en ingénierie de donn
 Je suis également un fervent défenseur des projets open source. Ma passion pour la programmation et l'apprentissage provient de l'interaction avec des communautés telles que Codingame, LeetCode, GitHub et Stack Overflow. J'apprécie particulièrement la culture de collaboration et de partage des connaissances qui caractérise l'univers de l'open source.
 Sur mon profil GitHub, vous trouverez une variété de projets en ingénierie de données, accompagnés d'explications détaillées et d'un code de qualité. N'hésitez pas à vous en inspirer pour vos propres projets ou à me contacter pour discuter de collaborations potentielles
 
+Je suis freelance data chez ainuw.Vous pouvez me contacter sur ***@gmail.com
+Je serais ravis de répondre à ces questions, pour vous aider.
+
 <!--
 **serigne2/Serigne2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
